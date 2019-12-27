@@ -8,3 +8,6 @@ I decided to code the game in java because I wanted to increase my expertise in 
 
 Most of the resources I used belonged to the video game Doom (2016), so I do not own nor have the rights
 of anything (images, music, sfx etc).
+
+Note: Make sure you read the file: "0link_to_the_rest_of_songs" located in "BooM/resources/sounds/" so
+you can understand and run the software in your computer in case you wanted to.
