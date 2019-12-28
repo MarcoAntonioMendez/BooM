@@ -1,6 +1,6 @@
 # BooM
 BooM is a light gun video game for PC, the game gets its inspiration from the legendary DooM series.
-You can watch a small gameplay in this link: COMING SOON.
+You can watch a small gameplay in this link: https://www.youtube.com/watch?v=ynAB7gpe4cQ 
 This project was made for a class I had in university.
 
 The idea was to develop a video game similar to Duck Hunt but with the atmosphere of and feeling of Doom.
